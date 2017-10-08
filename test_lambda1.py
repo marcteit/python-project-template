@@ -1,3 +1,0 @@
-import entry_point
-
-entry_point.lambda1()
